@@ -1,0 +1,9 @@
+# данные и результаты
+*.csv
+
+# артефакты
+__pycache__/
+*.pyc
+catboost_info/
+.ipynb_checkpoints/
+.venv/
